@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "efc40310a4e63c893329db0b",
+  "owner": "fwudkf",
+  "repo": "page-ddfb5193289ffb626487112c",
+  "title": "花云(FlowerCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ddfb5193289ffb626487112c",
+      "a": "花云(FlowerCloud)",
+      "b": "小火箭机场推荐",
+      "entity": "花云(FlowerCloud)",
+      "brand": "花云(FlowerCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f6ee56224ce71f7a6721cfd7e358b195f9d3711cbb7812f77ec2fc3715380e87",
+      "content": {
+        "primary_entity": "花云(FlowerCloud)",
+        "keyword1": "花云(FlowerCloud)",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_DESCRIPTION": "，花云(FlowerCloud)提供多档海外加速套餐，覆盖从个人轻量使用到团队多设备共享的不同场景。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并配置 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备在线。年付方案均有相应折扣，便于按设备数量与月流量需求选择合适的订阅周期。",
+          "AI_HERO_SUBTITLE": "花云加速订阅多设备选择",
+          "AI_HERO_INTRO": "花云(FlowerCloud)面向需要稳定海外网络加速的用户，提供基础版、旗舰版与团队版三类套餐。流量从每月 100GB 到 1000GB，设备数量从 3 台到 20 台，可按日常浏览、流媒体与游戏加速等不同用途选择。",
+          "AI_VISUAL_TITLE": "花云多档加速订阅",
+          "AI_HIGHLIGHT_1": "三档流量按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "围绕流量、设备数和订阅周期选择花云套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_2": "3 台设备选基础版，5 台选旗舰版，20 台选团队版更合适。",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比流量、设备数与年付价格，按实际需求选择花云套餐。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按三步完成花云服务选择与订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数量，从基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持情况，核对套餐允许的同时在线设备数。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档，将订阅信息导入并完成连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对花云套餐",
+          "AI_CLOSING_TEXT": "按设备数量与月流量选定版本，再完成客户端订阅配置。",
+          "AI_FAQ_ANSWER_1": "在支持的业务系统中完成注册，选择月付或年付方案，支付成功后即可在客户端导入订阅信息。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按同时在线设备数计算，超出需升级套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用；基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，均相当于按年付折扣。",
+          "AI_FAQ_ANSWER_5": "主流客户端支持订阅导入，手机用 Shadowrocket、Clash，电脑用 Clash Verge、v2rayN，按客户端文档配置即可。",
+          "AI_FAQ_QUESTION_1": "花云怎么注册和购买？",
+          "AI_FAQ_QUESTION_2": "套餐允许几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d0a70fb8ed5869f8cb08b6a380b738e5c035f9e4b148cece6446344c37d8054b",
+    "sitemap.xml": "f2f83a6703876c69a11f63adcce4de954927e9c56cf17e93ac9d59eeda64d683",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "49d19073764a0bb0d408db8ea88e697ebdccc868ef0767dc8bdb48b35eb2bab2"
+}
